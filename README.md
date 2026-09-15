@@ -130,7 +130,7 @@ The final model achieved:
 
 The Logistic Regression model produced:
 
-```text
+```
 [[917, 116],
  [160, 214]]
 
@@ -140,10 +140,13 @@ The Logistic Regression model produced:
 - False Negatives: 160
 - True Positives: 214
 
+
+```
 ## Streamlit Dashboard
 
 A Streamlit-based interactive dashboard was developed to allow users to enter customer information and receive a churn prediction.
 
+```
 ### Dashboard Features
 
 - Customer information input form
@@ -153,7 +156,7 @@ A Streamlit-based interactive dashboard was developed to allow users to enter cu
 - Real-time prediction using the trained Logistic Regression model
 - Saved preprocessing pipeline for consistent input transformation
 
-
+```
 ## Technologies Used
 
 - Python
@@ -198,7 +201,7 @@ customer-churn-analysis-prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/zenudhay/customer-churn-analysis-prediction.git
 cd customer-churn-analysis-prediction
 
 ```
