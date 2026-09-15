@@ -126,11 +126,12 @@ The final model achieved:
 - **60.80% F1 Score**
 - **83.59% ROC-AUC**
 
+
 ### Confusion Matrix
 
 The Logistic Regression model produced:
 
-```
+```text
 [[917, 116],
  [160, 214]]
 
@@ -170,7 +171,7 @@ A Streamlit-based interactive dashboard was developed to allow users to enter cu
 - Jupyter Notebook
 - Git & GitHub
 
-
+```
 ## Project Structure
 
 ```text
