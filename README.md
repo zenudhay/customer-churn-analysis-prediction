@@ -1,4 +1,7 @@
 # Customer Churn Analysis & Prediction
+## 🚀 Live Demo
+
+[Try the Customer Churn Prediction Dashboard](https://customer-churn-analysis-prediction-cwcpxqrpumqw2mhsfotttu.streamlit.app/)
 
 An end-to-end machine learning project that analyzes customer behavior and predicts the likelihood of customer churn.
 
@@ -147,7 +150,7 @@ The Logistic Regression model produced:
 
 A Streamlit-based interactive dashboard was developed to allow users to enter customer information and receive a churn prediction.
 
-```
+
 ### Dashboard Features
 
 - Customer information input form
@@ -157,7 +160,7 @@ A Streamlit-based interactive dashboard was developed to allow users to enter cu
 - Real-time prediction using the trained Logistic Regression model
 - Saved preprocessing pipeline for consistent input transformation
 
-```
+
 ## Technologies Used
 
 - Python
@@ -171,7 +174,7 @@ A Streamlit-based interactive dashboard was developed to allow users to enter cu
 - Jupyter Notebook
 - Git & GitHub
 
-```
+
 ## Project Structure
 
 ```text
