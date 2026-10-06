@@ -1,7 +1,7 @@
 # Customer Churn Analysis & Prediction
 ## 🚀 Live Demo
 
-[Try the Customer Churn Prediction Dashboard](https://customer-churn-analysis-prediction-cwcpxqrpumqw2mhsfotttu.streamlit.app/)
+[Try the Customer Churn Prediction Dashboard](https://customer-churn-analysis-prediction-udhay.streamlit.app/)
 
 An end-to-end machine learning project that analyzes customer behavior and predicts the likelihood of customer churn.
 
